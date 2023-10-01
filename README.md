@@ -1,6 +1,11 @@
-<div align = "center">Hi there 👋 This is Pragadeesh !😎</div>
+# <h1 align = "center" padding-bottom = 10 >Hi there 👋 This is <a href = 'https://www.linkedin.com/in/pragadeesh-nehru-a26040257/' >Pragadeesh</a>! 😎</h1>
+## Just a guy who loves to Code 🧑🏼‍💻☕
+[![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0?style=flat&logo=twitter&logoColor=%23FFFFFF&labelColor=%231D9BF0&link=https%3A%2F%2Ftwitter.com%2Fpragdxshn)](https://twitter.com/pragdxshn)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%23E1306C)](https://instagram.com/pragadxsh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%230077B5)](https://www.linkedin.com/in/pragadeesh-nehru-a26040257/)
 
 <!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
