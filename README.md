@@ -1,6 +1,4 @@
-<div align= "center">
-  Hi there 👋 This is Pragadeesh !😎
-</div>
+<div align = "center">Hi there 👋 This is Pragadeesh !😎</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
