@@ -18,10 +18,11 @@
 ### My Stats 🔥
 ![Leetcode Stats](https://leetcard.jacoblin.cool/pragadeeshxenocrate?ext=activity)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pragadeeshnehru&theme=dark&background=000000)](https://git.io/streak-stats)
+:star: GitHub Stats         |  🧑🏼‍💻
+:--------------------------:|:-------------------------: 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PragadeeshNehru)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PragadeeshNehru&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragadeeshnehru&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![An image of @pragadeeshnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pragadeeshnehru)](https://holopin.io/@pragadeeshnehru)
 #### :hammer_and_wrench: Languages and Tools :
 
 <div>
