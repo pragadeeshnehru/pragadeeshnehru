@@ -1,8 +1,10 @@
-# <h1 align = "center" padding-bottom = 10 >Hi there 👋 This is <a href = 'https://www.linkedin.com/in/pragadeesh-nehru-a26040257/' >Pragadeesh</a>! 😎</h1>
+# <h1 align = "center" padding-bottom = 10 ><a href = 'https://www.linkedin.com/in/pragadeesh-nehru-a26040257/' >Pragadeesh Nehru</a>! 😎</h1>
 ## <h1 align="center">Kaizen 🧑🏼‍💻☕</h1>
-[![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0?style=flat&logo=twitter&logoColor=%23FFFFFF&labelColor=%231D9BF0&link=https%3A%2F%2Ftwitter.com%2Fpragdxshn)](https://twitter.com/pragdxshn)
+<a href="https://twitter.com/pragdxshn" ><img src="https://img.shields.io/twitter/follow/pragadxshn.svg?style=social" /> </a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%23E1306C)](https://instagram.com/pragadxsh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%230077B5)](https://www.linkedin.com/in/pragadeesh-nehru-a26040257/)
+
+
 
 ### My Stats 🔥
 ![Leetcode Stats](https://leetcard.jacoblin.cool/pragadeeshxenocrate?ext=activity)
